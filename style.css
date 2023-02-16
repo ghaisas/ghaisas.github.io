@@ -1,0 +1,77 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1, h3, h4{
+    font-family: 'Bree Serif', serif;
+    font-weight: 400;
+    color: #5D67AB;
+}
+
+
+.navbar{
+    position: sticky;
+    top: 0;
+}
+
+.dropdown-item{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.mynavheading{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #5D67AB;
+}
+
+.nav-link{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.link-light{
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #5D67AB;
+    border-color: #5D67AB;
+}
+.btn-primary:hover{
+    background-color: #475dec;
+    border-color: none;
+    
+    
+}
+
+.footer{
+    color: rgb(104, 104, 104);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: 0.8rem;
+    background-color: white;
+   
+}
+
+.mycardhover:hover{
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+
+}
+
+.myvideo{
+    width: 100%;
+}
+
+.mybuffer{
+    height: 400px;
+}
